@@ -47,19 +47,8 @@ F(9) = 34 = 34
 F(10) = 55 = 55
 
 # Time Complexity
-I can't seem to print the results on my laptop, due the following reason:
-./main_b_time_recursive.exe
-./main_b_time_recursive.exe : The term 
-'./main_b_time_recursive.exe' is not recognized
-as the name of a cmdlet, function, script file,
-or operable program. Check the spelling of the
-name, or if a path was included, verify that the
-path is correct and try again.
-At line:1 char:1
-+ ./main_b_time_recursive.exe
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (.
-   /main_b_time_recursive.exe:String) [], Comma
-  ndNotFoundException
-    + FullyQualifiedErrorId : CommandNotFoundExc
-   eption
+run ./main_b_time_recursive and ./main_b_time_iterative to find the time complexity of each methods
+
+# Conclusion
+Based on the time complexity, using the recrusive method is much faster than the iterative method
+   
